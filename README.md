@@ -21,8 +21,8 @@ Bu proje, Ethereum blockchain üzerinde alıcı ve satıcı arasında güvenli �
 ```
 ├── contracts
 │   └── Escrow.sol       # Akıllı sözleşme
-├── scripts
-│   └── deploy.js        # Akıllı sözleşme dağıtım betiği
+├── ignition/modules
+│   └── Escrow.js        # Akıllı sözleşme dağıtım betiği
 ├── src
 │   └── App.js           # React ana dosya
 ├── package.json
